@@ -18,11 +18,9 @@ This repository contains my completed work for **Lab 1.5**. It includes several 
 ## Notable Changes I Made
 1. **Enhanced Error Handling**  
    - Added checks to ensure `malloc()` and `realloc()` calls succeed, printing an error message and gracefully exiting otherwise.
-2. **Improved Readability**  
-   - Included extra comments explaining the logic behind certain functions and why I chose to structure the code a specific way.
-3. **Adjusted Array / Memory Usage**  
+2. **Adjusted Array / Memory Usage**  
    - In some examples, I changed the initial array sizes or reallocation strategy to test edge cases and confirm that the code behaves correctly when inputs exceed initial capacity.
-4. **Refined Output Messages**  
+3. **Refined Output Messages**  
    - Updated prompts and results to be more descriptive, so it’s easier to follow what the program is doing.
 
 ## How to Run
